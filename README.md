@@ -1,6 +1,3 @@
-Here's a `README.md` file template for your Employee Management System project. This file includes the project description, features, setup instructions, and how to add the signup feature.
-
-
 # Employee Management System
 
 The Employee Management System is a Java-based application designed to manage employee data effectively. It allows users to perform operations such as adding, updating, viewing, and removing employee details. The system also includes user authentication via a login page.
