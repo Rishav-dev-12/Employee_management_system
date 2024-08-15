@@ -97,7 +97,6 @@ To add the signup option, a new `Signup.java` class was created. This allows new
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-```
 
 ### Steps to Customize:
 1. Replace `your-username` with your actual GitHub username.
