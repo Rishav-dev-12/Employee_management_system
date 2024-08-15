@@ -1,23 +1,23 @@
 Here's a `README.md` file template for your Employee Management System project. This file includes the project description, features, setup instructions, and how to add the signup feature.
 
-```markdown
+
 # Employee Management System
 
 The Employee Management System is a Java-based application designed to manage employee data effectively. It allows users to perform operations such as adding, updating, viewing, and removing employee details. The system also includes user authentication via a login page.
 
 ## Features
 
-- **Employee Management:**
+**Employee Management:**
   - Add new employees
   - Update existing employee details
   - View employee information
   - Remove employees from the system
 
-- **User Authentication:**
+**User Authentication:**
   - Secure login functionality
   - Newly added signup functionality for user registration
 
-- **User Interface:**
+**User Interface:**
   - Simple and intuitive UI
   - Use of images and icons for better user experience
 
@@ -97,13 +97,6 @@ To add the signup option, a new `Signup.java` class was created. This allows new
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Thanks to everyone who has contributed to the development of this project.
 ```
 
 ### Steps to Customize:
